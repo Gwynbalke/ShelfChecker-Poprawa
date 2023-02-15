@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="mycon-Web.config Connection String" description="mycon Connection String used in web.config by the application to access the database." defaultValue="server=shelfchecker.database.windows.net;database=baza;uid='shelfadmin';pwd='ShelfChecker123.'" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\emyhr\\Documents\\Archiwizacja\\Projekt\ z\ programowania\\projekt\\V2\\projekt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='mycon']/@connectionString" />
+  </parameter>
+</parameters>
