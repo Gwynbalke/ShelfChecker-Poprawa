@@ -1,0 +1,15 @@
+﻿body {
+    background-color: rgb(252, 244, 219);
+}
+    #form1
+        {
+        background-color:red;
+        display: block;
+        width: 20%;
+        border: 2px solid black;
+        height: 50%;
+        
+        }
+#form2 {
+    background-color: blue;
+}
