@@ -1,0 +1,362 @@
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\projekt.dll.config
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\projekt.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\projekt.pdb
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.exe
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.exe.config
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.rsp
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.exe
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.exe.config
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.rsp
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.AppContext.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Console.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Net.Http.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.exe
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.exe.config
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.rsp
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\Newtonsoft.Json.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Net.Http.Formatting.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.WebHost.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\Newtonsoft.Json.xml
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Net.Http.Formatting.xml
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.xml
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.WebHost.xml
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Web.Http.resources.dll
+C:\Users\madamski\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\projekt.dll.config
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\projekt.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\projekt.pdb
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.exe.config
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csc.rsp
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.exe
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.exe.config
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\csi.rsp
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.AppContext.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Console.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Net.Http.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.exe.config
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\vbc.rsp
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Net.Http.Formatting.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.WebHost.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Net.Http.Formatting.xml
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.xml
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\System.Web.Http.WebHost.xml
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Web.Http.resources.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.dll
+C:\Users\Mateusz\Desktop\szkola\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\projekt.dll.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\projekt.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\projekt.pdb
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csc.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csc.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csc.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csi.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csi.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\csi.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.AppContext.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Console.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Net.Http.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\vbc.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\vbc.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\vbc.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\Newtonsoft.Json.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Net.Http.Formatting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Web.Http.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Web.Http.WebHost.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\Newtonsoft.Json.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Net.Http.Formatting.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Web.Http.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\System.Web.Http.WebHost.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\pl\System.Web.Http.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\obj\Debug\projekt.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\EntityFramework.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\EntityFramework.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\projekt.dll.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\projekt.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\projekt.pdb
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csc.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csc.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csc.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csi.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csi.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\csi.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.AppContext.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Console.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Net.Http.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\vbc.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\vbc.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\vbc.rsp
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\EntityFramework.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\Newtonsoft.Json.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Net.Http.Formatting.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Web.Http.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Web.Http.WebHost.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\EntityFramework.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\Newtonsoft.Json.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Net.Http.Formatting.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Web.Http.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\System.Web.Http.WebHost.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\pl\System.Web.Http.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\obj\Debug\projekt.dll
+C:\Users\emyhr\Documents\Archiwizacja\Projekt z programowania\projekt\POPRAWIONY PROJEKT\projekt\obj\Debug\projekt.pdb
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\projekt.dll.config
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\projekt.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\projekt.pdb
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csc.exe.config
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csc.rsp
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csi.exe
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csi.exe.config
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\csi.rsp
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.AppContext.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Console.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Net.Http.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\vbc.exe.config
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\vbc.rsp
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\EntityFramework.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Net.Http.Formatting.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Web.Http.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Web.Http.WebHost.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\EntityFramework.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Net.Http.Formatting.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Web.Http.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\System.Web.Http.WebHost.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\pl\System.Web.Http.resources.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\nowyp\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\nowyp\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\nowyp\projekt\obj\Debug\projekt.dll
+C:\Users\Mateusz\Desktop\nowyp\projekt\obj\Debug\projekt.pdb
